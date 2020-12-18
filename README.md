@@ -1,12 +1,11 @@
 ### G'day, I'm Gav 👋
 
-It is my goal to help humanity 🌎 build a safe and symbiotic relationship with a future artificial general intelligence 🤖.
+I make stuff :construction_worker:
 
-If you share this goal reach out 🙌 lets build 🏗️ something together!
+I enjoy coding and video games :computer: :video_game:
 
-##### Things I like
-- 🤖 AI
-- 💻 Computers
-- 🚀 Rockets
+I'm paticularly good at math :mortar_board: and programming :office:
 
-If you want to know more about me check out my [website 🌐](https://gavinrossiter.dev), I try to work on it as often as possible
+I'm interested in AI research, great software and games.  If you want to make something, reach out, I'm keen to hear about it.
+
+I also have a [website 🌐](https://gavinrossiter.dev)
